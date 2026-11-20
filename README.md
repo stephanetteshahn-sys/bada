@@ -3,6 +3,10 @@
 > **혼자 공부하는 학생들을 위한 무료 내신 영어 학습 웹앱**  
 > 목표를 향해 항해하는 <strong>'바다'</strong>이자, 노력한 만큼 **'점수 받아'** 간다는 뜻을 담았습니다.
 
+### 🌊 [바다 웹앱 바로 쓰기 — bada-study.vercel.app](https://bada-study.vercel.app)
+
+설치도 회원가입도 없이 브라우저에서 바로 열립니다. (iPhone·iPad Safari, PC 모두 지원)
+
 ---
 
 ## 🎯 제작 목적 (Why)
@@ -59,5 +63,7 @@
 - 공개 저장소에는 저작권이 있는 학교 프린트나 모의고사 원문을 포함하지 않으며, 학습 엔진 구조와 예시 데이터만 제공합니다.
 
 ---
+
+바다 웹앱: <https://bada-study.vercel.app>
 
 Made by **Katana Holiday**

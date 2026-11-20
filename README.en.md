@@ -3,6 +3,10 @@
 > **A free English exam-prep web app for self-directed students**  
 > **BADA** (*meaning "sea" and sounding like "receive" in Korean*) represents navigating toward your goals while getting the score you worked for.
 
+### 🌊 [Open the BADA web app — bada-study.vercel.app](https://bada-study.vercel.app)
+
+No install, no sign-up. It runs right in your browser (iPhone·iPad Safari and desktop).
+
 ---
 
 ## 🎯 Why BADA?
@@ -59,5 +63,7 @@ BADA requires no sign-up and no paid API keys. Any student can connect it with t
 - Public repositories do not include copyrighted school handouts or exam passages—only the core learning engine and sample structures are provided.
 
 ---
+
+BADA web app: <https://bada-study.vercel.app>
 
 Made by **Katana Holiday**
